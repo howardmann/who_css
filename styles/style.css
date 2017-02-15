@@ -10,10 +10,14 @@ html, body {
   margin: 0px;
   background: #F0F5F6;
   color: #565656;
+  padding-bottom: 50px;
 }
 
 p {
   margin: 10px 0px;
+}
+a {
+  text-decoration: none;
 }
 /* GRID SYSTEM */
 .row:after {
