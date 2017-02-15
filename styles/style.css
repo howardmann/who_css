@@ -161,7 +161,7 @@ input {
 button {
   background: #D8D8D8;
   border-radius: 3px;
-  font-family: OpenSans-Bold;
+  font-weight: 600;
   font-size: 14px;
   color: #565656;
   border: none;
