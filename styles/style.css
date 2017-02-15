@@ -13,7 +13,7 @@ html, body {
 }
 
 p {
-  margin: 0px 0px 10px 0px;
+  margin: 10px 0px;
 }
 /* GRID SYSTEM */
 .row:after {
@@ -178,7 +178,14 @@ button.no.active {
   background: #FC1125;
   color: #FFFFFF;
 }
-
+.who-logo {
+  width: 150px;
+}
+.section {
+  background: #47A0E7;
+  color: white;
+  height: 45px;
+}
 /* Phone size */
 @media (max-width: 760px) {
   .sm-hide {
