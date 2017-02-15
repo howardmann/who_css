@@ -140,7 +140,7 @@ p {
 /* CUSTOM LAYOUTS GO HERE */
 header {
   height: 57px;
-  background-color: #47A0E7;
+  background-color: #3F91E8;
   padding: 7px;
 }
 .logo {
@@ -151,7 +151,13 @@ header {
   margin-bottom: 7px;
   padding: 15px 0px;
 }
-
+input {
+  background: #F1F6F8;
+  border: none;
+  padding: 10px;
+  border-radius: 3px;
+  width: 45%;
+}
 button {
   background: #D8D8D8;
   border-radius: 3px;
